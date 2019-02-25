@@ -1,0 +1,12 @@
+{
+    "brackets-minifier.on-save-project": false,
+    "brackets-minifier.js-project-minify": true,
+    "brackets-minifier.css-project-minify": true,
+    "brackets-minifier.js-custom-path": "build",
+    "brackets-minifier.css-custom-path": "build",
+    "brackets-minifier.project-exclude": "css/style.css",
+    "brackets-minifier.concat-js-filename": "particles.pkdg",
+    "brackets-minifier.concat-css-filename": "particles.pkdg",
+    "brackets-minifier.uglifyjs-options": "{}",
+    "brackets-minifier.cleancss-options": "{}"
+}
